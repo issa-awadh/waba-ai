@@ -1,0 +1,346 @@
+{
+    "header": {
+        "client_info": {
+            "client": "John Makau",
+            "site_location": "Yumbu-Mwingi"
+        },
+        "sample_info": {
+            "source": "Borehole",
+            "reference_no": "10/24/RO/2376",
+            "date_received": "23/10/2024",
+            "date_of_analysis": "24/10/2024",
+            "type_of_test": "WT Equipment Design (MM5/Wave) Water\nAnalysis",
+            "sampling_date": "22/10/2024",
+            "reporting_date": "28/10/2024"
+        }
+    },
+    "physical_analysis": [
+        {
+            "pH": {
+                "method_of_analysis": "8156",
+                "unit": "pH Units",
+                "value": "6.13",
+                "who_guideline": "6.5 - 8.50",
+                "remark": "Fail"
+            }
+        },
+        {
+            "TDS": {
+                "method_of_analysis": "10256",
+                "unit": "Mg/l",
+                "value": "860",
+                "who_guideline": "<1000",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Total Suspended Solids(TSS)": {
+                "method_of_analysis": "8006",
+                "unit": "Mg/l",
+                "value": "15",
+                "who_guideline": "NIL",
+                "remark": "Fail"
+            }
+        },
+        {
+            "Salinity": {
+                "method_of_analysis": "8160",
+                "unit": "ppt",
+                "value": "0.67",
+                "who_guideline": "NS",
+                "remark": "None"
+            }
+        },
+        {
+            "Electrical Conductivity(EC)": {
+                "method_of_analysis": "10256",
+                "unit": "\u03bcS/cm",
+                "value": "1332",
+                "who_guideline": "<1500",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Turbidity": {
+                "method_of_analysis": "8237",
+                "unit": "NTU",
+                "value": "5.1",
+                "who_guideline": "<5",
+                "remark": "Fail"
+            }
+        },
+        {
+            "Color": {
+                "method_of_analysis": "8025",
+                "unit": "PtCo",
+                "value": "10",
+                "who_guideline": "<15",
+                "remark": "Pass"
+            }
+        }
+    ],
+    "chemical_analysis": [
+        {
+            "Iron, Fe": {
+                "method_of_analysis": "8008",
+                "unit": "Mg/l Fe",
+                "value": "0.15",
+                "who_guideline": "<0.30",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Manganese, Mn": {
+                "method_of_analysis": "8149",
+                "unit": "Mg/l Mn",
+                "value": "0.73",
+                "who_guideline": "<0.10",
+                "remark": "Fail"
+            }
+        },
+        {
+            "Copper, Cu": {
+                "method_of_analysis": "8506",
+                "unit": "Mg/l Cu",
+                "value": "0.08",
+                "who_guideline": "<2.0",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Fluorides": {
+                "method_of_analysis": "8323",
+                "unit": "Mg/l F",
+                "value": "0.3",
+                "who_guideline": "<1.5",
+                "remark": "Pass"
+            }
+        },
+        {
+            "*Ammonical Nitrogen": {
+                "method_of_analysis": "8155",
+                "unit": "NH3-N",
+                "value": "0.02",
+                "who_guideline": "NS",
+                "remark": "None"
+            }
+        },
+        {
+            "*Ammonium": {
+                "method_of_analysis": "8155",
+                "unit": "NH4+",
+                "value": "0.03",
+                "who_guideline": "<1.5",
+                "remark": "Pass"
+            }
+        },
+        {
+            "*Ammonia": {
+                "method_of_analysis": "8155",
+                "unit": "NH3",
+                "value": "0.02",
+                "who_guideline": "<2.0",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Nitrate N": {
+                "method_of_analysis": "8039",
+                "unit": "Mg/l NO3N",
+                "value": "2.1",
+                "who_guideline": "<11.3",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Nitrate": {
+                "method_of_analysis": "8039",
+                "unit": "NO3-",
+                "value": "9",
+                "who_guideline": "<50",
+                "remark": "Pass"
+            }
+        },
+        {
+            "*Nitrites": {
+                "method_of_analysis": "8153",
+                "unit": "Mg/l NO2",
+                "value": "0",
+                "who_guideline": "<3",
+                "remark": "Pass"
+            }
+        },
+        {
+            "*Nitrite N": {
+                "method_of_analysis": "8153",
+                "unit": "Mg/l NO2-N",
+                "value": "0.0",
+                "who_guideline": "<1",
+                "remark": "Pass"
+            }
+        },
+        {
+            "*Potassium": {
+                "method_of_analysis": "8049",
+                "unit": "Mg/l K",
+                "value": "8",
+                "who_guideline": "<50",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Phosphates": {
+                "method_of_analysis": "8048",
+                "unit": "Mg/lPO\u2084\u00b3\u207b",
+                "value": "0.25",
+                "who_guideline": "<0.61",
+                "remark": "Pass"
+            }
+        },
+        {
+            "*Silicon": {
+                "method_of_analysis": "8185",
+                "unit": "Mg/l",
+                "value": "31",
+                "who_guideline": "\u02c2 50",
+                "remark": "None"
+            }
+        },
+        {
+            "*Silica": {
+                "method_of_analysis": "8185",
+                "unit": "Mg/l SiO2",
+                "value": "67",
+                "who_guideline": "<107",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Calcium": {
+                "method_of_analysis": "8204",
+                "unit": "Mg/l Ca2+",
+                "value": "106",
+                "who_guideline": "<150",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Magnesium": {
+                "method_of_analysis": "8213",
+                "unit": "Mg/l Mg2+",
+                "value": "33",
+                "who_guideline": "<100",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Calcium Hardness": {
+                "method_of_analysis": "8204",
+                "unit": "Mg/l Ca2+ (CaCO3)",
+                "value": "266",
+                "who_guideline": "NS",
+                "remark": "None"
+            }
+        },
+        {
+            "Magnesium Hardness": {
+                "method_of_analysis": "8213",
+                "unit": "Mg/l Mg2+ (CaCO3)",
+                "value": "137",
+                "who_guideline": "NS",
+                "remark": "None"
+            }
+        },
+        {
+            "Total Hardness": {
+                "method_of_analysis": "8213",
+                "unit": "Mg/l CaCO3",
+                "value": "403",
+                "who_guideline": "<300",
+                "remark": "Fail"
+            }
+        },
+        {
+            "Aluminium, Al": {
+                "method_of_analysis": "8012",
+                "unit": "Mg/l Al",
+                "value": "0.04",
+                "who_guideline": "\u02c20.10",
+                "remark": "None"
+            }
+        },
+        {
+            "Sulphate, SO4": {
+                "method_of_analysis": "8051",
+                "unit": "Mg/l SO4",
+                "value": "33",
+                "who_guideline": "\u02c2400",
+                "remark": "None"
+            }
+        },
+        {
+            "Chlorides": {
+                "method_of_analysis": "8207",
+                "unit": "Mg/l Cl",
+                "value": "219",
+                "who_guideline": "<250",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Total Alkalinity": {
+                "method_of_analysis": "8203",
+                "unit": "Mg/l CaCO3",
+                "value": "321",
+                "who_guideline": "NS",
+                "remark": "None"
+            }
+        },
+        {
+            "Phenolphthalein Alkalinity": {
+                "method_of_analysis": "8204",
+                "unit": "Mg/l CaCO3",
+                "value": "ND",
+                "who_guideline": "NS",
+                "remark": "None"
+            }
+        },
+        {
+            "Bicarbonates": {
+                "method_of_analysis": "8205",
+                "unit": "Mg/l HCO3-",
+                "value": "321",
+                "who_guideline": "<255",
+                "remark": "Fail"
+            }
+        },
+        {
+            "Carbonates": {
+                "method_of_analysis": "8206",
+                "unit": "Mg/l CO\u00b2\u207b \u2083",
+                "value": "0",
+                "who_guideline": "<121",
+                "remark": "Pass"
+            }
+        },
+        {
+            "Sodium, Na": {
+                "method_of_analysis": "8322",
+                "unit": "Mg/l Na",
+                "value": "162",
+                "who_guideline": "<200",
+                "remark": "Pass"
+            }
+        }
+    ],
+    "final_comments": [
+        {
+            "comments": "Based on the water analysis, the levels of pH, TSS, Turbidity, Manganese, Total Hardness and Bicarbonates did not meet WHO limits, therefore, water treatment is recommended. The results relate to the sample(s) submitted.The laboratory will not be held responsible for any sampling errors.\n*The parameter is not accredited. # Parameters is sub contracted to a third party laboratory",
+            "signof": "PREPARED BY : RACHEAL KIMANI\nSIGN Date: 28/10/2024 APPROVED BY: JOHN WAEMA\nSIGN Date: 28/10/2024"
+        }
+    ],
+    "metadata": {
+        "processed_date": "2025-04-29T10:48:52.315256",
+        "source_file": "tmpaywazskr"
+    }
+}

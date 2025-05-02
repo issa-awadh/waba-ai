@@ -1,0 +1,118 @@
+{
+  "pretreatment": [
+    {
+      "product_description": "Centrifugal pump for raw water feed.",
+      "product_name": "Dayliff DDC Pump",
+      "model_number": "DDC 158"
+    },
+    {
+      "product_description": "Dosing pump for Sodium Hypochlorite (Oxidation/Disinfection).",
+      "product_name": "Seko Dosing Pump",
+      "model_number": "AML 200"
+    },
+    {
+      "product_description": "Storage tank for Sodium Hypochlorite solution.",
+      "product_name": "Dayliff Chemical Dosing Tank",
+      "model_number": "60L"
+    },
+    {
+      "product_description": "Chemical for Oxidation (Fe/Mn) and initial disinfection.",
+      "product_name": "Sodium Hypochlorite",
+      "model_number": "Liquid Chlorine 10-15%"
+    },
+    {
+      "product_description": "Multimedia Filter Vessel (GRP) with Automatic Valve for TSS, Turbidity, precipitated Fe/Mn/Cu removal.",
+      "product_name": "Dayliff CXD Filter",
+      "model_number": "CXD 400 Auto"
+    },
+    {
+      "product_description": "Filter media for sediment, TSS, precipitated metals removal.",
+      "product_name": "Filter Glass Media",
+      "model_number": "Grade 1 & 2"
+    },
+    {
+      "product_description": "Activated Carbon Filter Vessel (GRP) with Automatic Valve for dechlorination and organics removal.",
+      "product_name": "Dayliff CXD Filter",
+      "model_number": "CXD 400 Auto"
+    },
+    {
+      "product_description": "Filter media for chlorine and organics removal.",
+      "product_name": "Activated Carbon Media",
+      "model_number": "Jacobi AC or equivalent"
+    },
+    {
+      "product_description": "Dosing pump for Sodium Metabisulphite (Dechlorination before RO).",
+      "product_name": "Seko Dosing Pump",
+      "model_number": "AML 200"
+    },
+    {
+      "product_description": "Storage tank for Sodium Metabisulphite solution.",
+      "product_name": "Dayliff Chemical Dosing Tank",
+      "model_number": "60L"
+    },
+    {
+      "product_description": "Chemical for dechlorination.",
+      "product_name": "Sodium Metabisulphite",
+      "model_number": "SMBS"
+    },
+    {
+      "product_description": "Dosing pump for Antiscalant.",
+      "product_name": "Grundfos Alldos Dosing Pump",
+      "model_number": "DDE 6-10 P-PVC/V/C"
+    },
+    {
+      "product_description": "Storage tank for Antiscalant solution.",
+      "product_name": "Dayliff Chemical Dosing Tank",
+      "model_number": "60L"
+    },
+    {
+      "product_description": "Broad spectrum antiscalant for high TDS/seawater.",
+      "product_name": "Genesys Antiscalant",
+      "model_number": "Genesys LF"
+    },
+    {
+      "product_description": "Cartridge filter housing for RO pre-filtration (5 micron).",
+      "product_name": "Atlas Filtri Filter Housing",
+      "model_number": "DP 20 MONO"
+    },
+    {
+      "product_description": "5-micron sediment cartridge filter.",
+      "product_name": "Atlas Filtri Sediment Cartridge",
+      "model_number": "CPP 5 20 inch"
+    }
+  ],
+  "RO": [
+    {
+      "product_description": "Seawater Reverse Osmosis Plant producing 0.5 m³/hr permeate suitable for high TDS feed water.",
+      "product_name": "Dayliff Seawater RO Plant",
+      "model_number": "DRO-SW-0.5"
+    }
+  ],
+  "postreatment": [
+    {
+      "product_description": "Dosing pump for Sodium Hydroxide (pH correction).",
+      "product_name": "Seko Dosing Pump",
+      "model_number": "AML 200"
+    },
+    {
+      "product_description": "Storage tank for Sodium Hydroxide solution.",
+      "product_name": "Dayliff Chemical Dosing Tank",
+      "model_number": "60L"
+    },
+    {
+      "product_description": "Chemical for post-RO pH increase.",
+      "product_name": "Caustic Soda (Sodium Hydroxide)",
+      "model_number": "NaOH Flakes/Liquid"
+    },
+    {
+      "product_description": "UV Sterilizer for final disinfection of permeate water.",
+      "product_name": "Dayliff UV Sterilizer",
+      "model_number": "DUV-C3"
+    },
+    {
+      "product_description": "Variable speed booster pump for constant pressure distribution (optional, based on user needs).",
+      "product_name": "Dayliff Aquastrong Smart Pump",
+      "model_number": "SMART45"
+    }
+  ]
+}

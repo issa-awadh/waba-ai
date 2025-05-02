@@ -1,0 +1,17 @@
+fastapi
+cryptography
+python-multipart
+uvicorn
+pydantic
+aiofiles
+pytest
+httpx
+chromadb
+tiktoken
+openai
+google-geneai
+google
+sqlalchemy
+sqlalchemy-utils
+pdfplumber
+faiss
