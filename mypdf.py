@@ -255,7 +255,10 @@ def extract_pdf_data(pdf_path: str, output_path: Optional[str] = None) -> Dict[s
         output_path = f"outputs/{base_name}_output.json"
     else:
         output_path = 'outputs/' + output_path
-    
+
+    # Ensure outputs directory exists
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
     # Extract and clean data
     extractor = PDFDataExtractor(pdf_path)
     if not extractor.extract_tables():

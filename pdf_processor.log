@@ -3971,3 +3971,41 @@ category
 2025-04-29 11:14:30,947 - root - INFO - Time elapsed after agent.process: 107.91s
 2025-04-29 11:14:30,959 - root - INFO - Returning response as JSON
 2025-04-29 11:14:30,960 - root - INFO - Total time for /extract-features: 107.92s
+2025-05-07 10:35:49,210 - watchfiles.main - INFO - 1 change detected
+2025-05-07 10:35:49,622 - watchfiles.main - INFO - 2 changes detected
+2025-05-07 10:35:51,044 - watchfiles.main - INFO - 1 change detected
+2025-05-07 10:36:46,969 - root - INFO - Received request to /extract-features
+2025-05-07 10:36:46,988 - root - INFO - Saved uploaded file to C:\Users\Issa\AppData\Local\Temp\tmpt82dl8bf
+2025-05-07 10:36:46,989 - root - INFO - Extracting features from PDF
+2025-05-07 10:36:46,989 - pdf_processor - INFO - Processing PDF: C:\Users\Issa\AppData\Local\Temp\tmpt82dl8bf
+2025-05-07 10:36:47,559 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 10:36:47,838 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-07 10:36:47,877 - pdf_processor - INFO - Data saved to outputs/john_makau_water_analysis_report_(1)_(1).json
+2025-05-07 10:36:47,878 - root - INFO - Deleted temp file C:\Users\Issa\AppData\Local\Temp\tmpt82dl8bf
+2025-05-07 10:36:47,879 - root - INFO - Initializing clients
+2025-05-07 10:36:47,942 - watchfiles.main - INFO - 1 change detected
+2025-05-07 10:36:50,556 - root - INFO - Clients initialized successfully
+2025-05-07 10:36:50,556 - root - INFO - Time elapsed after client init: 3.59s
+2025-05-07 10:36:50,557 - root - INFO - Initializing RagAgent
+2025-05-07 10:36:55,070 - root - INFO - RagAgent initialized successfully
+2025-05-07 10:36:55,071 - root - INFO - Time elapsed after RagAgent init: 8.10s
+2025-05-07 10:36:55,072 - root - INFO - Loading lab report JSON
+2025-05-07 10:36:55,114 - root - INFO - Lab report JSON loaded
+2025-05-07 10:36:55,115 - root - INFO - Processing query with RagAgent
+2025-05-07 10:36:58,234 - httpx - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 10:36:59,964 - httpx - INFO - HTTP Request: POST https://models.inference.ai.azure.com/embeddings "HTTP/1.1 200 OK"
+2025-05-07 10:37:12,538 - httpx - INFO - HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 10:37:12,544 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-05-07 10:38:50,504 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro-exp-03-25:generateContent "HTTP/1.1 200 OK"
+2025-05-07 10:38:50,729 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-05-07 10:38:50,754 - root - INFO - Query processed successfully
+2025-05-07 10:38:50,755 - root - INFO - Time elapsed after agent.process: 123.79s
+2025-05-07 10:38:50,779 - root - INFO - Returning response as JSON
+2025-05-07 10:38:50,780 - root - INFO - Total time for /extract-features: 123.81s
+2025-05-07 10:41:01,331 - watchfiles.main - INFO - 1 change detected
+2025-05-07 10:43:51,951 - watchfiles.main - INFO - 1 change detected
+2025-05-07 10:43:54,445 - watchfiles.main - INFO - 1 change detected
+2025-05-07 10:45:14,462 - watchfiles.main - INFO - 1 change detected
+2025-05-07 10:45:19,015 - watchfiles.main - INFO - 1 change detected
+2025-05-07 10:45:19,373 - watchfiles.main - INFO - 1 change detected
+2025-05-07 10:46:24,106 - watchfiles.main - INFO - 1 change detected
